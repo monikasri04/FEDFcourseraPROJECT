@@ -1,28 +1,17 @@
+---
+
+### 📄 `CODE_OF_CONDUCT.md`
+```markdown
 # Code of Conduct
 
-## Our Pledge
-We are dedicated to building a welcoming, inclusive, and respectful community.  
-As contributors and maintainers, we pledge to make participation in our project a harassment-free experience for everyone.
+We are committed to fostering an open and welcoming environment for everyone.  
+As contributors and maintainers of this project, we pledge to:
 
-## Our Standards
-Examples of positive behavior:
-- Showing respect and empathy toward others
-- Being open to different viewpoints and ideas
-- Offering constructive feedback
-- Taking responsibility and apologizing for mistakes
+- Be respectful and inclusive.
+- Avoid discriminatory or offensive language.
+- Value constructive feedback and collaboration.
+- Resolve conflicts peacefully.
 
-Examples of unacceptable behavior:
-- Discriminatory language or personal attacks
-- Harassment or intimidation of any kind
-- Publishing others’ private information
-- Any behavior that disrupts healthy discussion
+Instances of unacceptable behavior may be reported to the repository maintainers.
 
-## Enforcement
-Project maintainers are responsible for clarifying standards and enforcing this Code of Conduct.  
-Unacceptable behavior may result in warnings, temporary bans, or permanent removal from the community.
-
-## Reporting Issues
-If you experience or witness unacceptable behavior, please report it by opening an issue in this repository or contacting the maintainers directly.
-
-## Attribution
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/) version 2.1.
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
