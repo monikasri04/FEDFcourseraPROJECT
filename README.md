@@ -1,5 +1,3 @@
-# FEDFcourseraPROJECT
-
 # Simple Interest Calculator
 
 This repository contains a simple Python script to calculate **Simple Interest**.  
